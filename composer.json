@@ -1,0 +1,24 @@
+{
+    "name": "whmcs/payzen-gateway-module",
+    "description": "Payzen Third Party Payment Gateway Module for the WHMCS Billing Automation Platform",
+    "keywords": [
+        "whmcs",
+        "web host automation platform",
+        "third party gateway module",
+        "gateway module",
+        "third party gateway"
+    ],
+    "homepage": "http://sudo-ai.tn/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SUDO-AI Development Team",
+            "email": "jemiaymen@gmail.com",
+            "homepage": "http://sudo-ai.tn/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "jemiaymen@gmail.com"
+    }
+}
